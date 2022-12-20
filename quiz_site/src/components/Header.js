@@ -2,8 +2,9 @@ import React from "react";
 import { Navbar, Container } from "react-bootstrap";
 import { ReactComponent as Logo } from "../Images/quappLogo.svg";
 
+
 const navbarStyle = {
-  backgroundColor: "#000080",
+  backgroundColor: "#0d1a30",
 };
 
 const Header = ({ title }) => {
